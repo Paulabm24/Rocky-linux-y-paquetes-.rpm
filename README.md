@@ -1,1 +1,1 @@
-# Rocky-linux-y-paquetes-.rpm
+# Rocky linux y paquetes.rpm
