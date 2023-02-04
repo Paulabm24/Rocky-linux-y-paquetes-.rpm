@@ -7,7 +7,7 @@
 
 ## [OPERACIONES BASICAS](modulo3/modulo3.md)
 
-## [REFERENCIAS](referencia.md)
+## [REFERENCIAS](referencias.md)
 
 ## AUTORES
 Paula Brito Milan
