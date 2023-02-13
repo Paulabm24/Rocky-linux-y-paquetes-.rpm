@@ -1,6 +1,8 @@
 ## ¿Dónde se encuentra los repositorios?
+En /var/lib/rpm
 
 ## Indicar ruta y mostrar el contenido.
+![image](repositorio.png)
 
 ## Entre las características de RPM están:
 
