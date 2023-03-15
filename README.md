@@ -8,11 +8,10 @@
 ## [REPOSITORIO ROCKY LINUX](modulo2/modulo2.md)
 -  ¿Dónde se encuentra los repositorios?
 ## [OPERACIONES BASICAS](modulo3/modulo3.md)
+- Comandos basicos para utilizar con los paquetes rpm:
 - Video
 ## [REFERENCIAS](referencias.md)
-
 ## AUTORES
-Paula Brito Milan
-
+Paula Brito Milán
 ## LICENCIA 
 ![images](licencia.png)
