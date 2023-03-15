@@ -1,2 +1,4 @@
 - https://keepcoding.io/blog/como-usar-el-comando-rpm/
 - http://recursostic.educacion.es/observatorio/web/ca/software/software-general/351-carlos-garcia-fernandez
+- https://access.redhat.com/documentation/es-es/red_hat_enterprise_linux/8/html/packaging_and_distributing_software/getting-started-with-rpm-packaging#:~:text=El%20gestor%20de%20paquetes%20RPM,los%20sistemas%20operativos%20mencionados%20anteriormente.
+- https://www.solvetic.com/tutoriales/article/8023-como-instalar-archivo-rpm-en-linux/
