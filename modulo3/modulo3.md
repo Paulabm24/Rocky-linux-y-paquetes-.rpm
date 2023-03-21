@@ -8,3 +8,4 @@
 - yum search {package}: busca paquetes mediante su nombre.
 - yum grouplist: lista de visualización de los grupos del software.
 - yum repolist: muestra la lista de los repositorios que se tengan de yum
+- yum list installed | grep nombre_Paquete: Averiguar si un paquete está instalado.
