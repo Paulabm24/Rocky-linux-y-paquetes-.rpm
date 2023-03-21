@@ -9,7 +9,8 @@
 -  ¿Dónde se encuentra los repositorios?
 ## [OPERACIONES BASICAS](modulo3/modulo3.md)
 - Comandos basicos para utilizar con los paquetes rpm
-- Video
+- [Video](https://youtu.be/DxKXKfxC3PM)
+
 ## [REFERENCIAS](referencias.md)
 ## AUTORES
 Paula Brito Milán
